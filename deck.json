@@ -1,0 +1,166 @@
+{
+  "cards": [
+    {
+      "img": "./Calaveritas/BEC.png",
+      "Ascore": "10",
+      "Bscore": "10",
+      "Cscore": "10"
+    },
+    {
+      "img": "./Calaveritas/BED.png",
+      "Ascore": "10",
+      "Bscore": "10",
+      "Cscore": "1000"
+    },
+    {
+      "img": "./Calaveritas/BEH.png",
+      "Ascore": "10",
+      "Bscore": "100",
+      "Cscore": "10"
+    },
+    {
+      "img": "./Calaveritas/BGC.png",
+      "Ascore": "10",
+      "Bscore": "1000",
+      "Cscore": "10"
+    },
+    {
+      "img": "./Calaveritas/BGD.png",
+      "Ascore": "10",
+      "Bscore": "1000",
+      "Cscore": "1000"
+    },
+    {
+      "img": "./Calaveritas/BGH.png",
+      "Ascore": "10",
+      "Bscore": "1000",
+      "Cscore": "100"
+    },
+    {
+      "img": "./Calaveritas/BNC.png",
+      "Ascore": "10",
+      "Bscore": "100",
+      "Cscore": "10"
+    },
+    {
+      "img": "./Calaveritas/BND.png",
+      "Ascore": "10",
+      "Bscore": "100",
+      "Cscore": "1000"
+    },
+    {
+      "img": "./Calaveritas/BNH.png",
+      "Ascore": "10",
+      "Bscore": "100",
+      "Cscore": "100"
+    },
+    {
+      "img": "./Calaveritas/SEC.png",
+      "Ascore": "100",
+      "Bscore": "10",
+      "Cscore": "10"
+    },
+    {
+      "img": "./Calaveritas/SED.png",
+      "Ascore": "100",
+      "Bscore": "10",
+      "Cscore": "1000"
+    },
+    {
+      "img": "./Calaveritas/SEH.png",
+      "Ascore": "100",
+      "Bscore": "10",
+      "Cscore": "100"
+    },
+    {
+      "img": "./Calaveritas/SGC.png",
+      "Ascore": "100",
+      "Bscore": "1000",
+      "Cscore": "10"
+    },
+    {
+      "img": "./Calaveritas/SGD.png",
+      "Ascore": "100",
+      "Bscore": "1000",
+      "Cscore": "1000"
+    },
+    {
+      "img": "./Calaveritas/SGH.png",
+      "Ascore": "100",
+      "Bscore": "1000",
+      "Cscore": "100"
+    },
+    {
+      "img": "./Calaveritas/SNC.png",
+      "Ascore": "100",
+      "Bscore": "100",
+      "Cscore": "10"
+    },
+    {
+      "img": "./Calaveritas/SND.png",
+      "Ascore": "100",
+      "Bscore": "100",
+      "Cscore": "1000"
+    },
+    {
+      "img": "./Calaveritas/SNH.png",
+      "Ascore": "100",
+      "Bscore": "100",
+      "Cscore": "100"
+    },
+    {
+      "img": "./Calaveritas/WEC.png",
+      "Ascore": "1000",
+      "Bscore": "10",
+      "Cscore": "10"
+    },
+    {
+      "img": "./Calaveritas/WED.png",
+      "Ascore": "1000",
+      "Bscore": "10",
+      "Cscore": "1000"
+    },
+    {
+      "img": "./Calaveritas/WEH.png",
+      "Ascore": "1000",
+      "Bscore": "10",
+      "Cscore": "1000"
+    },
+    {
+      "img": "./Calaveritas/WGC.png",
+      "Ascore": "1000",
+      "Bscore": "1000",
+      "Cscore": "10"
+    },
+    {
+      "img": "./Calaveritas/WGD.png",
+      "Ascore": "1000",
+      "Bscore": "1000",
+      "Cscore": "1000"
+    },
+    {
+      "img": "./Calaveritas/WGH.png",
+      "Ascore": "1000",
+      "Bscore": "1000",
+      "Cscore": "100"
+    },
+    {
+      "img": "./Calaveritas/WNC.png",
+      "Ascore": "1000",
+      "Bscore": "100",
+      "Cscore": "10"
+    },
+    {
+      "img": "./Calaveritas/WND.png",
+      "Ascore": "1000",
+      "Bscore": "100",
+      "Cscore": "1000"
+    },
+    {
+      "img": "./Calaveritas/WNH.png",
+      "Ascore": "1000",
+      "Bscore": "100",
+      "Cscore": "100"
+    }
+  ]
+}

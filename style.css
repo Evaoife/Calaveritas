@@ -1,0 +1,28 @@
+.card-game {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  gap: 10px; /* Spacing between cards */
+}
+
+.card {
+  width: 200px; /* Adjust as needed */
+  height: 200px; /* Adjust as needed */
+  border: 1px solid #ccc; /* Add border */
+  cursor: pointer; /* Make it clickable */
+}
+
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Prevents image distortion */
+}
+.card.highlighted {
+  border: 3px solid yellow; /* Or any other highlight style you prefer */
+  /* Add other visual cues like background color, box-shadow, etc. */
+  transform: scale(1.05); /* Example: slightly scale up the card */
+}
+
+/* Optional: Add a transition for a smoother highlight effect */
+.card {
+    transition: transform 0.2s ease, border-color 0.2s ease; /* Example */
+}

@@ -1,1 +1,8 @@
 "homepage": "https://evaoife.github.io",
+
+{
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
